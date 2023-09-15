@@ -1,5 +1,5 @@
-# Tableau_Portfolio
-My Tableau Portfolio Works
+# My Tableau Visualization Portfolio
+
 
 ## Global Sales of Playstation Games_Genrewise
 
