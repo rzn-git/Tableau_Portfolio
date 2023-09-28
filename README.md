@@ -5,6 +5,8 @@
 ### Number of Rows: 3,919 + 84,190 + 94,777
 ### Number of Columns: 92 + 6 + 3
 
+
+
 ![Airbnb](https://github.com/rzn-git/Tableau_Portfolio/assets/64501583/bc08a20c-02ac-4e13-a373-3aa6a8a70c1d)
 
 
