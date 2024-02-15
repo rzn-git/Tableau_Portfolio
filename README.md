@@ -1,4 +1,16 @@
 # Tableau Visualization Portfolio
+## Source Data: A IT company revenue data
+The Dashboard Contains Overview of -
+⦿ Total Revenue & Sales
+⦿ Revenue by Market
+⦿ Sales Quantity by Market
+⦿ Revenue by Year
+⦿ Top 5 products
+⦿ Top 5 Customers
+⦿ Filter by Years & Months
+Check it out here: https://lnkd.in/d3XWkrnz
+
+![Dashboard 1](https://github.com/rzn-git/Tableau_Portfolio/assets/64501583/19009bcd-a953-477c-ae32-f253db2e94a0)
 
 ## Source Data: Airbnb
 
