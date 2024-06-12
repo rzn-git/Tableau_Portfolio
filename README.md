@@ -1,5 +1,5 @@
 # Tableau Visualization Portfolio
-## Source Data: A IT company revenue data
+## Source Data: An IT company revenue data
 The Dashboard Contains Overview of -
 ⦿ Total Revenue & Sales
 ⦿ Revenue by Market
